@@ -43,7 +43,7 @@ section#botoes img{
     box-sizing: border-box;
 }
 section#botoes{
-    text-align: right;
+   
 }
 section#botoes img:hover{
     border: 2px solid rgba(255, 255, 255, 0.637);
